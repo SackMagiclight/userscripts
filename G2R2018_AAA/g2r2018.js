@@ -9,8 +9,8 @@
 // @grant        none
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
 // @license      MIT License
-// @downloadURL  
-// @updateURL    
+// @downloadURL  https://raw.githubusercontent.com/SackMagiclight/userscripts/master/G2R2018_AAA/g2r2018.js
+// @updateURL    https://raw.githubusercontent.com/SackMagiclight/userscripts/master/G2R2018_AAA/g2r2018.js
 // ==/UserScript==
 
 (function() {

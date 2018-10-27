@@ -10,8 +10,8 @@
 // @copyright    2018+, SackMagiclight
 // @license      MIT License
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
-// @downloadURL  https://raw.githubusercontent.com/SackMagiclight/userscripts/master/G2R2018_AAA/g2r2018.js
-// @updateURL    https://raw.githubusercontent.com/SackMagiclight/userscripts/master/G2R2018_AAA/g2r2018.js
+// @downloadURL  https://github.com/SackMagiclight/userscripts/raw/master/G2R2018_AAA/g2r2018.js
+// @updateURL    https://github.com/SackMagiclight/userscripts/raw/master/G2R2018_AAA/g2r2018.js
 // ==/UserScript==
 
 (function() {

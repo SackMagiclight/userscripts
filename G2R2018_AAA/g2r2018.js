@@ -1,14 +1,15 @@
 // ==UserScript==
 // @name         IIDX 25 G2R2018 COMPE - How many people DJRANK AAA?
 // @namespace    https://www.gaftalk.com/
-// @homepage     https://github.com/SackMagiclight/userscripts
-// @version      0.1
-// @description  Add DJ rank AAA counter. (G2R2018 compe only)
+// @version      1.0
 // @author       SackMagiclight
+// @description  Add DJ rank AAA counter. (G2R2018 compe only)
+// @homepage     https://github.com/SackMagiclight/userscripts
 // @match        https://p.eagate.573.jp/game/2dx/25/p/customize/compe/ranking.html?param=IqI%2BxStkJryt/dE7ztiItwnXsIfL/Cqjqfr73Zk7vRE%3D
 // @grant        none
-// @require      https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+// @copyright    2018+, SackMagiclight
 // @license      MIT License
+// @require      https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
 // @downloadURL  https://raw.githubusercontent.com/SackMagiclight/userscripts/master/G2R2018_AAA/g2r2018.js
 // @updateURL    https://raw.githubusercontent.com/SackMagiclight/userscripts/master/G2R2018_AAA/g2r2018.js
 // ==/UserScript==
